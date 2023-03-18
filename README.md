@@ -1,4 +1,4 @@
-# Simulation-model-of-the-processor
+# Simulation model of the processor using C++
 
 3-address addressing <br/>
 24-bit registers <br/>
@@ -11,6 +11,8 @@ then the numbers "go in a circle" and it becomes close to the minimum. <br/>
 For example: 8 388 607 + 1 = -8 388 608. The same and vice versa. <br/>
 
 -----------------------------------------------------------------------------
+
+# Імітаційна модель процесора на C++
 
 3-адресна адресність <br/>
 24-бітний процесор <br/>
